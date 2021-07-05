@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### zshuo <a href="https://github.com/Zzshuo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/Zzshuo/iBeats/main/files/heart.svg"/></a>
 
-😄 你好~ 我是 zhuo，生活工作在深圳。
+😄 你好~ 我是 zshuo，生活工作在深圳。
 喜爱游戏，游泳，摄影，读书，编程。
 
 你可以到我的[网站](https://zzshuo.github.io/)来玩， 📫 如果你想聊聊，可以给我[发邮件](694814357@qq.com)。
